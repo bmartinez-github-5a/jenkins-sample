@@ -31,4 +31,10 @@
    </plugins>
   </build>
   
+  <properties>
+    <sonar.projectKey>bmartinez-github-5a_jenkins-sample</sonar.projectKey>
+    <sonar.organization>bmartinez-github-5a</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
+  
 </project>
